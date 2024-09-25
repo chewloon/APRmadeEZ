@@ -1,0 +1,11 @@
+altair
+pandas
+streamlit
+streamlit_st_aggrid
+openai
+plotly.express
+io
+PyPDF2
+docx
+base64
+collections
